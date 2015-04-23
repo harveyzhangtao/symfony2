@@ -1,0 +1,4 @@
+Acme\HelloBundle\Entity\First:
+    properties:
+         name:
+            - NotBlank: ~
