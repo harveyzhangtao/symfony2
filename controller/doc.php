@@ -90,3 +90,9 @@ class RegistrationType extends AbstractType
     );
 }
 }
+
+
+
+
+//selinux linux的安全认证
+http://forum.piwik.org/read.php?2,125856,125865
