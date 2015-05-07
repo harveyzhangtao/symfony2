@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * set email by port 465 and ssl
+ * set email by port 465 and ssl email service
  */
 namespace Jfpal\AppBundle\Email;
 use Symfony\Component\DependencyInjection\Container;
